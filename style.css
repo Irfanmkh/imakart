@@ -1,0 +1,87 @@
+body {
+    font-family: 'Baloo 2',
+        cursive;
+    background-color: #F2DB6E;
+}
+
+.navbar {
+    background-color: #2F318B;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-family: 'Oleo Script Swash Caps',
+        cursive;
+    color: rgb(255, 255, 255);
+}
+
+.nav-item {
+    font-family: 'Baloo 2',
+        cursive;
+    font-size: large;
+    color: white;
+}
+
+.nav-item:hover {
+    font-size: 20px;
+
+}
+
+.welcome {
+    font-family: 'Oleo Script Swash Caps',
+        cursive;
+    color: #2F318B;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    margin-top: 70px;
+    background-image: url(image/jumbotron.jpg);
+    background-size: cover;
+}
+
+.judul {
+    font-family: 'Rubik Marker Hatch',
+        cursive;
+    color: #2F318B;
+}
+
+#kategori {
+    background-color: #DBDBDB;
+    padding-top: 5rem;
+}
+
+
+.btnkategori {
+    width: 300px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 50px;
+    background-color: #2F318B;
+}
+
+
+
+#kontak {
+    background-color: #f8f1c8;
+    padding-top: 5rem;
+}
+
+#tentangkami {
+    background-color: #F2DB6E;
+    padding-top: 5rem;
+}
+
+.tentangkami {
+    font-family: 'Oleo Script Swash Caps',
+        cursive;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.footer {
+    background-color: #2F318B;
+    border-radius: 100% 100% 0 0;
+}
